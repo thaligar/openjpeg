@@ -34,6 +34,6 @@ RUN mkdir -p /source/openjpeg && \
     cmake .. && \
     make
   
-VOLUME ["/source/openjpeg"]
+VOLUME ["/mnt"]
 
 
