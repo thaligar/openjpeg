@@ -1,4 +1,4 @@
-# Polyscope Docker
+# OpenJPEG Docker
 FROM sschmittner/ubuntu_updated:latest
 
 LABEL  version="0.0.1"
