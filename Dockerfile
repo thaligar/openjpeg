@@ -1,5 +1,5 @@
 # Polyscope Docker
-FROM smiley/ubuntu_updated:latest
+FROM sschmittner/ubuntu_updated:latest
 
 LABEL  version="0.0.1"
 LABEL  description="OpenJPEG from source"
